@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0. Examples/0. Examples.iml" filepath="$PROJECT_DIR$/0. Examples/0. Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java - criando a sua primeira aplicação/1. Java - criando a sua primeira aplicação.iml" filepath="$PROJECT_DIR$/1. Java - criando a sua primeira aplicação/1. Java - criando a sua primeira aplicação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Java_aplicando a Orientação a Objetos/2. Java_aplicando a Orientação a Objetos.iml" filepath="$PROJECT_DIR$/2. Java_aplicando a Orientação a Objetos/2. Java_aplicando a Orientação a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Java_trabalhando com listas e coleções de dados/3. Java_trabalhando com listas e coleções de dados.iml" filepath="$PROJECT_DIR$/3. Java_trabalhando com listas e coleções de dados/3. Java_trabalhando com listas e coleções de dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.1 - Desafio Curso/3.1 - Desafio Curso.iml" filepath="$PROJECT_DIR$/3.1 - Desafio Curso/3.1 - Desafio Curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Java consumindo API, gravando arquivos e lidando com erros/4. Java consumindo API, gravando arquivos e lidando com erros.iml" filepath="$PROJECT_DIR$/4. Java consumindo API, gravando arquivos e lidando com erros/4. Java consumindo API, gravando arquivos e lidando com erros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0. Examples/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/0. Examples/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_codes.iml" filepath="$PROJECT_DIR$/.idea/java_codes.iml" />
+    </modules>
+  </component>
+</project>
